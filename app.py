@@ -36,10 +36,8 @@ async def main():
     prompt = (
     """
     Using my authenticated GitHub account, the owner is shivamshete1036,
-    give me the details of the repository named as enterprise-knowledge-assistant in simple language,
-    and also help to summarize the content of app.py file in that repository 
-    
-            
+   give me the content of app.py file of mcp repository and also summarize me the code in simple language of that file"
+
     """
         
     )

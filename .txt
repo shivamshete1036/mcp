@@ -1,0 +1,4 @@
+""" Using my authenticated GitHub account, the owner is shivamshete1036,
+    Create a file called main.py in my mcp repository and write the code to greet the owner of this repository and also commit the change to the main branch with the commit message as "Add main.py"."""
+
+
