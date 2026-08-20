@@ -8,6 +8,11 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 OWNER = "shivamshete1036"
 REPO = "mcp"
 
+def greet_owner():
+    """Greet the repository owner."""
+    print(f"Hello, {OWNER}! Welcome to the {REPO} repository.")
+
+greet_owner()
 
 def create_issue(title: str, body: str):
     """Create a new issue in the specified repository using the GitHub REST API."""
